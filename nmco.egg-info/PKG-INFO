@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: nmco
+Version: 0.1
+Summary: Nuclear morphology extraction package for 2D developed by Saradha Venkatachalapathy
+Home-page: https://github.com/GVS-Lab/NMCO-Image-Features.git
+Author: Saradha Venkatachalapathy
+Author-email: saradhavpathy@gmail.com
+License: MIT
+License-File: LICENSE
