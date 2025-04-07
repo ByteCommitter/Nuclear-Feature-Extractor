@@ -1,0 +1,10 @@
+raw_image,segmented_image,status,output
+003_G5_raw.tif,003_G5_segmented.tif,Success,003_G5_raw_features_20250407_110218.csv
+023_H5_raw.tif,023_H5_segmented.tif,Success,023_H5_raw_features_20250407_110220.csv
+043_I5_raw.tif,043_I5_segmented.tif,Success,043_I5_raw_features_20250407_110221.csv
+063_J5_raw.tif,063_J5_segmented.tif,Success,063_J5_raw_features_20250407_110305.csv
+083_K5_raw.tif,083_K5_segmented.tif,Success,083_K5_raw_features_20250407_110307.csv
+103_L5_raw.tif,103_L5_segmented.tif,Success,103_L5_raw_features_20250407_110308.csv
+123_D5_raw.tif,123_D5_segmented.tif,Success,123_D5_raw_features_20250407_110309.csv
+143_E5_raw.tif,143_E5_segmented.tif,Success,143_E5_raw_features_20250407_110310.csv
+179_F5_raw.tif,179_F5_segmented.tif,Success,179_F5_raw_features_20250407_110312.csv
