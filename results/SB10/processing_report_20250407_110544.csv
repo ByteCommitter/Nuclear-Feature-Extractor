@@ -1,6 +1,0 @@
-raw_image,segmented_image,status,output
-084_K6_raw.tif,084_K6_segmented.tif,Success,084_K6_raw_features_20250407_110536.csv
-085_K7_raw.tif,085_K7_segmented.tif,Success,085_K7_raw_features_20250407_110537.csv
-086_K8_raw.tif,086_K8_segmented.tif,Success,086_K8_raw_features_20250407_110539.csv
-087_K9_raw.tif,087_K9_segmented.tif,Success,087_K9_raw_features_20250407_110542.csv
-088_K10_raw.tif,088_K10_segmented.tif,Success,088_K10_raw_features_20250407_110544.csv
